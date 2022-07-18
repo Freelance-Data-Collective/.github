@@ -26,4 +26,4 @@ The group does not assume legal responsibility to resolve issues - instead, any 
 
 We maintain a repository of code that you can use in your client deployments. 
 We encourage participation to the codebase, but it is not required. 
-The IP license is free. (Apache).
+The IP license is free (Apache).
