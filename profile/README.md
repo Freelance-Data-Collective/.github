@@ -2,7 +2,7 @@
 
 ## Who are we?
 
-This collective was started by a group of freelancers from Berlin. 
+This collective was started by a group of freelancers from Berlin, but is international. 
 Our ambition is to be the go-to for freelance data work around Data warehousing, Business Intelligence and ML, aimed at an international market.
 
 The core behind this collective is that together we are stronger than alone. To achieve this, we share information and resources.
