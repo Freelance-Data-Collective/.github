@@ -1,5 +1,5 @@
 # Freelance Data Collective
-
+Slack link: https://join.slack.com/t/berlindatacol-szn7050/shared_invite/zt-2f34gztab-D35c8IAcWj8OQs3OJ7TxFQ
 ## Who are we?
 
 This collective was started by a group of freelancers from Berlin, but is international. 
